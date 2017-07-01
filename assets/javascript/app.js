@@ -25,35 +25,18 @@ var triviaQuestions = [{
 	answer: 0
 },
 
-// {
-// 	question: "What does Lily's doppelganger do for a living?",
-// 	answerList: ["Stripper", "Doctor", "Cab Driver", "Cop"],
-// 	answer: 0
-// },
-
 {
 	question: "Which instrument did Ted steal for Robin in the first episode and appears in Robin's apartment for the rest of the series?",
 	answerList: ["Trumpet", "Clarinet", "French Horn", "Tuba"],
 	answer: 2
 },
 
-// {
-// 	question: "Who is Robin's arch-enemy at work?",
-// 	answerList: ["Jess", "Nora", "Clarice", "Patrice"],
-// 	answer: 3
-// },
 
 {
 	question: "What is the name of the character that Ted and Barney hate, but Lily likes?",
 	answerList: ["Gary Blauman", "Terry Neuemann", "William Zabka", "Scotty Rumsen"],
 	answer: 0
 },
-
-// {
-// 	question: "What does Lily's doppelganger do for a living?",
-// 	answerList: ["Stripper", "Doctor", "Cab Driver", "Cop"],
-// 	answer: 0
-// },
 
 {
 	question: "Which character was NOT one of Ted's serious girlfriends?",
@@ -66,12 +49,6 @@ var triviaQuestions = [{
 	answerList: ["Shooter", "Skippy", "Scooter", "Skeeter"],
 	answer: 2
 },
-
-// {
-// 	question: "What is Marshall and Lily's theory on how to be a happy couple?",
-// 	answerList: ["Pickle Theory", "Olive Theory", "Lemon Theory", "Pineapple Theory"],
-// 	answer: 1
-// },
 
 {
 	question: "Which celebrity does Marshall share the 'best burger in the world' with?",
@@ -121,14 +98,6 @@ var triviaQuestions = [{
 	answer: 2
 }];
 
-// var gifArray = ['question1', 'question2', 'question3', 'question4', 'question5', 'question6', 'question7', 'question8', 'question9', 'question10', 'question11', 'question12', 'question13','question14','question15'];
-// var currentQuestion; var correctAnswer; var incorrectAnswer; var unanswered; var seconds; var time; var answered; var userSelect;
-// var messages = {
-// 	correct: "Yes, that's right!",
-// 	incorrect: "You just got slapped!",
-// 	endTime: "Out of time!",
-// 	finished: "Alright! Let's see how well you did."
-// }
 
 $('#startBtn').on('click', function(){
 	$(this).hide();
