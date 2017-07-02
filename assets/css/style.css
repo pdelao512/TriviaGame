@@ -58,7 +58,15 @@ h3 {
 #correctedAnswer {
 	color: #28CB79;
 }
-
+#correctAnswers {
+	color: #cdb5cd;
+}
+#wrongAnswers {
+	color: #28CB79;
+}
+#unanswered {
+	color: #3A9E6D;
+}
 .thisChoice:hover{
 	background-color: #563177;
 	color: #f5f5f5;
